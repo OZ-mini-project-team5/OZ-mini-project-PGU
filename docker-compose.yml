@@ -1,4 +1,5 @@
 version: "3.11" #Docker ComposerAPI 버전을 의미
+#giung
 
 services:
   app: #Django
